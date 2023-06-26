@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! Welcome to my GitHub profile. <br>I'm a passionate Colombian university student with a keen interest in computer science.<br> At the age of 19, I am already exploring the world of programming, focusing on both backend and frontend development. <br>Being an avid learner and self-taught enthusiast, <br>I enjoy acquiring new skills and mastering cutting-edge technologies.<br><br>
+Hello! Welcome to my GitHub profile. <br>I'm a passionate Colombian university student with a keen interest in computer science.<br>At the age of 19, I am already exploring the world of programming, focusing on both backend and frontend development. <br>Being an avid learner and self-taught enthusiast, I enjoy acquiring new skills and mastering cutting-edge technologies.<br><br>
 
 
 ## 🌐 Socials:
@@ -19,10 +19,7 @@ Hello! Welcome to my GitHub profile. <br>I'm a passionate Colombian university s
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sticlo&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+![](https://github-contributor-stats.vercel.app/api?username=Sticlo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sticlo&icon=0&color=0)](https://visitcount.itsvg.in)
