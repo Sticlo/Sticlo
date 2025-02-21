@@ -51,8 +51,8 @@ Algunos de los proyectos en los que he trabajado incluyen:
 
 <div align="center">
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_title=true&hide=prs,issues)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&langs_count=6)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Sticlo&show_icons=true&theme=radical&hide_title=true&hide=prs,issues)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Sticlo&layout=compact&theme=radical&langs_count=6)
 
 </div>
 
