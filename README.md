@@ -1,6 +1,6 @@
 # 👨‍💻 ¡Bienvenido a mi GitHub! 🚀
 
-¡Hola! Soy un desarrollador web con 2 años de experiencia profesional en el campo de la tecnología. Actualmente soy estudiante de **sistematización de datos** en la **Universidad Distrital**, con 5 años de formación académica en este ámbito.
+¡Hola! Soy **Juan Aguilar**, un desarrollador web con 2 años de experiencia profesional en el mundo de la tecnología. Actualmente, estoy en formación académica en **sistematización de datos** en la **Universidad Distrital**, con 5 años de estudios en este campo.
 
 ---
 
@@ -70,9 +70,8 @@ Me especializo en el desarrollo web y manejo una amplia gama de tecnologías y h
 
 ¡Siéntete libre de contactarme para colaboraciones o simplemente para charlar sobre tecnología!
 
-- **Correo electrónico**: [tuemail@example.com](mailto:tuemail@example.com)
-- **LinkedIn**: [linkedin.com/in/tuusuario](#)
-- **Twitter**: [@tuusuario](#)
+- **Correo electrónico**: [kofix459@gmail.com](mailto:kofix459@gmail.com)
+- **LinkedIn**: [linkedin.com/in/juan-aguilar-563b79298](https://www.linkedin.com/in/juan-aguilar-563b79298/)
 
 ---
 
