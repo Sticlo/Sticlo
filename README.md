@@ -1,85 +1,113 @@
-# 👨‍💻 ¡Bienvenido a mi GitHub! 🚀
-
-¡Hola! Soy **Juan Aguilar**, un desarrollador web con 2 años de experiencia profesional en el mundo de la tecnología. Mi enfoque está en el desarrollo de aplicaciones web con tecnologías modernas y robustas, incluyendo **Angular**, **C# ASP**, y **SQL Server**. Actualmente, también me encuentro en formación académica en **sistematización de datos** en la **Universidad Distrital**, donde he estado profundizando durante 5 años en este campo.
-
----
-
-## 🌐 Mi Stack Tecnológico
-
-Me especializo en el desarrollo web y manejo una amplia gama de tecnologías y herramientas. Mi stack principal incluye:
-
-### **Frontend**
-- ![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Backend**
-- ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-### **Bases de Datos**
-- ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Nube**
-- ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-- ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-### **Herramientas**
-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 📂 Mis Proyectos Destacados
-
-Algunos de los proyectos en los que he trabajado incluyen:
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| **[Gestión de Datos](#)** | Aplicación web para gestionar bases de datos en tiempo real | Angular, ASP.NET, SQL Server |
-| **[API Analytics](#)** | API para análisis de datos en tiempo real | Django, Python, AWS Lambda |
-| **[E-commerce](#)** | Plataforma de ventas en línea | React, Node.js, MongoDB |
-
----
-
-## 📊 Estadísticas de GitHub
+# 👨💻 ¡Hola! Soy Juan Aguilar 🚀
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Apasionado+por+la+Innovación;Estudiante+de+Sistematización+de+Datos;Amante+del+Código+Limpio" alt="Encabezado animado" />
+</div>
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Sticlo&show_icons=true&theme=radical&hide_title=true&hide=prs,issues)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Sticlo&layout=compact&theme=radical&langs_count=6)
+---
+
+## 🛠️ Stack Tecnológico
+
+### **Frontend & Mobile**
+<div align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</div>
+
+### **Backend & APIs**
+<div align="left">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+</div>
+
+### **Bases de Datos**
+<div align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+</div>
+
+### **DevOps & Cloud**
+<div align="left">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</div>
+
+---
+
+## 🏆 Proyectos Destacados
+
+### 🔍 Sistema de Gestión de Datos
+[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu_usuario/proyecto)
+![Tecnologías](https://img.shields.io/badge/-Angular-FF6C37?logo=angular&style=flat)
+![Tecnologías](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&style=flat)
+![Tecnologías](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&style=flat)
+
+> Plataforma para gestión de bases de datos empresariales con reporting en tiempo real
+
+---
+
+### 📈 API de Analítica Avanzada
+[![Demo](https://img.shields.io/badge/Ver_Demo-FF6C37?style=for-the-badge&logo=heroku&logoColor=white)](https://tudemo.com)
+![Tecnologías](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)
+![Tecnologías](https://img.shields.io/badge/-AWS_Lambda-FF9900?logo=awslambda&style=flat)
+
+> Sistema de análisis predictivo con machine learning integrado
+
+---
+
+## 📊 Mis Métricas
+
+<div align="center">
+  
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=Sticlo&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Sticlo&layout=compact&theme=nightowl&hide_border=true&langs_count=8)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Sticlo&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🌱 Qué estoy aprendiendo actualmente
+## 🚀 En Desarrollo
 
-- **Microservicios** con **Spring Boot** y **Angular**.
-- **DevOps** y **CI/CD** con **Azure DevOps**.
-- **Cloud computing** (AWS, Azure).
-- Mejorar mis habilidades en **machine learning** con Python.
-
----
-
-## 📬 Conecta conmigo
-
-¡Siéntete libre de contactarme para colaboraciones o simplemente para charlar sobre tecnología!
-
-- **Correo electrónico**: [kofix459@gmail.com](mailto:kofix459@gmail.com)
-- **LinkedIn**: [linkedin.com/in/juan-aguilar-563b79298](https://www.linkedin.com/in/juan-aguilar-563b79298/)
-
----
-
-## 💡 Mi Filosofía
-
-La tecnología es el motor de la innovación, y mi misión es desarrollar soluciones web que resuelvan problemas reales con eficiencia y escalabilidad. Soy un firme creyente en la importancia de comprender profundamente los desafíos antes de implementar una solución, siempre buscando la forma más elegante y efectiva de abordar cada proyecto.
-
----
-
+<div align="left">
   
+📌 **Microservicios Avanzados**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+📌 **Automatización CI/CD**  
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+</div>
+
+---
+
+## 📬 Contacto
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kofix459@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-aguilar-563b79298)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportafolio.com)
+
+</div>
+
+---
+
+## 💡 Filosofía de Desarrollo
+
+> "**La excelencia técnica no es un destino, sino un viaje continuo.**  
+> Cada línea de código es una oportunidad para crear impacto real."
+
+<div align="right">
+  
+![Code Quality](https://img.shields.io/badge/Código-Limpio-brightgreen?style=for-the-badge&logo=sonarqube)
+![Architecture](https://img.shields.io/badge/Arquitectura-Hexagonal-blueviolet?style=for-the-badge)
+
+</div>
