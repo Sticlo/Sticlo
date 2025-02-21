@@ -10,6 +10,8 @@ Me especializo en el desarrollo web y manejo una amplia gama de tecnologías y h
 
 ### **Frontend**:
 - ![Angular](https://img.shields.io/badge/Angular-%23E23237.svg?style=flat&logo=angular&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 - React (en proceso de aprendizaje)
 
 ### **Backend**:
@@ -17,11 +19,17 @@ Me especializo en el desarrollo web y manejo una amplia gama de tecnologías y h
 - ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
 - ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 - ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
+- ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat&logo=express&logoColor=white)
 
 ### **Bases de datos**:
 - ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+
+### **Nube**:
+- ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white)
+  - Trabajo actualmente con **Azure DevOps**.
 
 ### **Otros**:
 - APIs RESTful, GraphQL
@@ -35,6 +43,7 @@ Me especializo en el desarrollo web y manejo una amplia gama de tecnologías y h
 - **Spring**: Framework robusto para el desarrollo de aplicaciones empresariales Java.
 - **Django**: Desarrollo rápido de aplicaciones con Python, ideal para proyectos con base de datos y APIs.
 - **Laravel**: PHP con un enfoque moderno y elegante para el desarrollo de aplicaciones web.
+- **Node.js y Express**: Soluciones eficientes para aplicaciones backend con JavaScript.
 
 ---
 
@@ -59,7 +68,7 @@ Mi pasión por la **tecnología** y el desarrollo de **soluciones innovadoras** 
 ## 🌱 Qué estoy aprendiendo actualmente
 
 - **Microservicios** con Spring Boot y Angular.
-- **DevOps** y **CI/CD**.
+- **DevOps** y **CI/CD** con Azure DevOps.
 - **Cloud computing** (AWS, Azure).
 - Mejorar mis habilidades en **machine learning** con Python.
 
@@ -72,6 +81,7 @@ En mi GitHub puedes encontrar una variedad de proyectos, que van desde **aplicac
 - 🚀 [Mi proyecto en Angular](#)
 - 🌍 [Aplicación de Gestión de Bases de Datos con SQL Server](#)
 - 🧠 [API para análisis de datos con Django](#)
+- 💻 [Backend con Node.js y Express](#)
 
 ### Gráficos de mi progreso:
 ![Progress](https://progress-bar.dev/50?title=Learning)
