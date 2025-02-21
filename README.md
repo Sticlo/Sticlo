@@ -82,10 +82,4 @@ La tecnología es el motor de la innovación, y mi misión es desarrollar soluci
 
 ---
 
-<div align="center">
-
-![GitHub Contributors](https://img.shields.io/github/contributors/tuusuario/tuusuario?color=blueviolet)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/tuusuario/tuusuario?color=success)
-![GitHub Repo Stars](https://img.shields.io/github/stars/tuusuario/tuusuario?style=social)
-
-</div>
+  
