@@ -1,4 +1,4 @@
-# Bienvenido a mi GitHub 👨‍💻🚀
+# 👨‍💻 ¡Bienvenido a mi GitHub! 🚀
 
 ¡Hola! Soy un desarrollador web con 2 años de experiencia profesional en el campo de la tecnología. Actualmente soy estudiante de **sistematización de datos** en la **Universidad Distrital**, con 5 años de formación académica en este ámbito.
 
@@ -8,60 +8,52 @@
 
 Me especializo en el desarrollo web y manejo una amplia gama de tecnologías y herramientas, incluyendo:
 
-### **Frontend**:
-- ![Angular](https://img.shields.io/badge/Angular-%23E23237.svg?style=flat&logo=angular&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-- React (en proceso de aprendizaje)
+### **Frontend**
+![Angular](https://img.shields.io/badge/Angular-E23237?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### **Backend**:
-- ![ASP.NET](https://img.shields.io/badge/ASP.NET-%23239120.svg?style=flat&logo=asp-net&logoColor=white)
-- ![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-- ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
-- ![Express](https://img.shields.io/badge/Express-%23404d59.svg?style=flat&logo=express&logoColor=white)
+### **Backend**
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### **Bases de datos**:
-- ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+### **Bases de Datos**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Nube**:
-- ![Azure](https://img.shields.io/badge/Azure-%230078D4.svg?style=flat&logo=microsoft-azure&logoColor=white)
-  - Trabajo actualmente con **Azure DevOps**.
+### **Nube**
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### **Otros**:
-- APIs RESTful, GraphQL
-- Docker, Git
-- **Desarrollo Fullstack** con integración en múltiples capas
+### **Herramientas**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 🔧 Experiencia en Frameworks
+## 📂 Mis Proyectos Destacados
 
-- **Spring**: Framework robusto para el desarrollo de aplicaciones empresariales Java.
-- **Django**: Desarrollo rápido de aplicaciones con Python, ideal para proyectos con base de datos y APIs.
-- **Laravel**: PHP con un enfoque moderno y elegante para el desarrollo de aplicaciones web.
-- **Node.js y Express**: Soluciones eficientes para aplicaciones backend con JavaScript.
-
----
-
-## 🗄️ Bases de Datos
-
-Soy experto en el manejo de motores de bases de datos relacionales:
-
-- **SQL Server**
-- **MySQL**
-- **PostgreSQL**
-
-He trabajado con estos sistemas en diferentes entornos, optimizando consultas y diseñando arquitecturas de bases de datos eficientes.
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| **[Gestión de Datos](#)** | Aplicación web para gestión de bases de datos | Angular, Spring Boot, PostgreSQL |
+| **[API Analytics](#)** | API para análisis de datos en tiempo real | Django, Python, AWS Lambda |
+| **[E-commerce](#)** | Plataforma de ventas en línea | React, Node.js, MongoDB |
 
 ---
 
-## 💡 Mi Filosofía
+## 📊 Estadísticas de GitHub
 
-Mi pasión por la **tecnología** y el desarrollo de **soluciones innovadoras** me lleva a estar en constante aprendizaje. Creo que la clave para desarrollar software de calidad es la comprensión profunda de los problemas y la búsqueda de soluciones elegantes, eficientes y escalables.
+<div align="center">
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_title=true&hide=prs,issues)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&langs_count=6)
+
+</div>
 
 ---
 
@@ -74,40 +66,26 @@ Mi pasión por la **tecnología** y el desarrollo de **soluciones innovadoras** 
 
 ---
 
-## 📈 Mis Proyectos
+## 📬 Conecta conmigo
 
-En mi GitHub puedes encontrar una variedad de proyectos, que van desde **aplicaciones web completas** hasta **scripts para automatización**. A continuación, te dejo algunos de los proyectos más destacados:
+¡Siéntete libre de contactarme para colaboraciones o simplemente para charlar sobre tecnología!
 
-- 🚀 [Mi proyecto en Angular](#)
-- 🌍 [Aplicación de Gestión de Bases de Datos con SQL Server](#)
-- 🧠 [API para análisis de datos con Django](#)
-- 💻 [Backend con Node.js y Express](#)
-
-### Gráficos de mi progreso:
-![Progress](https://progress-bar.dev/50?title=Learning)
-
----
-
-## 🤝 Conecta conmigo
-
-Si estás interesado en colaborar o discutir alguna tecnología, no dudes en contactarme. Estoy disponible para nuevos desafíos y oportunidades de colaboración.
-
-- **Correo electrónico**: [tuemail@example.com]
+- **Correo electrónico**: [tuemail@example.com](mailto:tuemail@example.com)
 - **LinkedIn**: [linkedin.com/in/tuusuario](#)
 - **Twitter**: [@tuusuario](#)
 
 ---
 
-## 🚀 Mi Camino en GitHub
+## 💡 Mi Filosofía
 
-- **Contribuciones**: Estoy activo en varios proyectos open source.  
-- **Colaboraciones**: Siempre abierto a nuevas colaboraciones.
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&hide=html&layout=compact&langs_count=6&theme=radical)
+Mi pasión por la **tecnología** y el desarrollo de **soluciones innovadoras** me lleva a estar en constante aprendizaje. Creo que la clave para desarrollar software de calidad es la comprensión profunda de los problemas y la búsqueda de soluciones elegantes, eficientes y escalables.
 
 ---
 
-### 🚀 ¡Gracias por visitar mi GitHub!
+<div align="center">
+
+![GitHub Contributors](https://img.shields.io/github/contributors/tuusuario/tuusuario?color=blueviolet)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/tuusuario/tuusuario?color=success)
+![GitHub Repo Stars](https://img.shields.io/github/stars/tuusuario/tuusuario?style=social)
+
+</div>
