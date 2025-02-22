@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=🚀+Desarrollador+Full+Stack+.NET;💻+Especialista+en+Angular+y+SQL+Server;📚+Estudiante+de+Sistematización+de+Datos;🇨🇴+Colombia" alt="Encabezado animado" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Apasionado+por+la+Innovación;Estudiante+de+Sistematización+de+Datos;Amante+del+Código+Limpio" alt="Encabezado animado" />
 </div>
 
 ---
@@ -7,7 +7,7 @@
 ## 👨💻 Perfil Profesional
 
 **Desarrollador Web Full Stack** en [ADRES Colombia](https://www.adres.gov.co/)  
-📅 **Experiencia desde:** 2022  
+📅 **Experiencia desde:** 2024  
 🛠 **Stack Principal:**  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
@@ -46,10 +46,10 @@
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?logo=.net&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 
-### **Bases de Datos**
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-![T-SQL](https://img.shields.io/badge/T--SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
-![SSIS](https://img.shields.io/badge/SSIS-CC2927?logo=microsoft-sql-server&logoColor=white)
+### **Bases de Datos**  
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL_Workbench-4479A1?logo=mysql&logoColor=white)
 
 ### **Metodologías & Prácticas**
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=scrum&logoColor=white)
@@ -61,39 +61,23 @@
 ## 💼 Experiencia Laboral en ADRES
 
 ### **Desarrollador Full Stack**
-**📅 2022 - Actualidad**  
+**📅 Julio 2024 - Actualidad**  
 🔧 **Principales Responsabilidades:**
-- Desarrollo y mantenimiento de aplicaciones web empresariales
+- Desarrollo y mantenimiento de aplicaciones web 
 - Diseño e implementación de APIs REST con ASP.NET Core
-- Optimización de consultas SQL y procesos ETL
-- Implementación de arquitecturas limpias y patrones MVC
-
-🚀 **Logros Destacados:**
-- Migración exitosa de sistema legacy a Angular + .NET Core
-- Mejora del 40% en rendimiento de procesos críticos
-- Implementación de sistema de autenticación JWT
-- Integración continua con Azure DevOps
+- Optimización de consultas SQL y procedimientos Almacenados
+- Implementación de arquitecturas limpias 
 
 ---
 
 ## 📂 Proyectos Relevantes
-
-### Sistema de Gestión de Subsidios (ADRES)
-[![Repo](https://img.shields.io/badge/ADRES-EC1C24?style=flat&logo=government&logoColor=white)](https://www.adres.gov.co/)
-![Tech Stack](https://img.shields.io/badge/Stack-Angular|ASP.NET|SQL_Server-20C20E?logoWidth=20)
-
-▶️ **Características Clave:**
-- Módulo de asignación automatizada de subsidios
-- Panel administrativo con reporting integrado
-- Integración con sistemas gubernamentales
-- Sistema de notificaciones en tiempo real
 
 ### Plataforma Educativa (Universidad)
 [![Demo](https://img.shields.io/badge/Academic_Project-0052CC?style=flat&logo=university&logoColor=white)](https://github.com/Sticlo)
 ![Architecture](https://img.shields.io/badge/Arquitectura-Clean|MVC|DDD-20C20E)
 
 🔧 **Tecnologías Utilizadas:**
-- Angular Material UI
+- Angular Material UI/UX
 - ASP.NET Core Web API
 - SQL Server con procedimientos almacenados
 - Autenticación con Identity Server
