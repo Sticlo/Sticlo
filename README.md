@@ -1,88 +1,166 @@
-# 👨💻 ¡Hola! Soy Juan Aguilar 🚀
+<!-- Cabecera Dinámica -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Apasionado+por+la+Innovación;Estudiante+de+Sistematización+de+Datos;Amante+del+Código+Limpio" alt="Encabezado animado" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Apasionado+por+la+Innovación;Estudiante+de+Sistematización+de+Datos;Amante+del+Código+Limpio" alt="Encabezado animado" />
+
+![Profile Banner](https://raw.githubusercontent.com/Sticlo/Sticlo/main/assets/banner-code.png) <!-- Agrega tu propia imagen -->
+
 </div>
+
+---
+
+## 🌟 Sobre Mí
+
+¡Hola mundo! 👋 Soy un desarrollador full-stack con pasión por crear soluciones escalables y eficientes. Actualmente enfocado en:
+
+🚀 Arquitecturas cloud-native
+
+🧠 Machine Learning aplicado
+
+🔐 Seguridad en aplicaciones web
+
+💡 Optimización de procesos empresariales
+
+```diff
+
++ "No solo resuelvo problemas, creo ecosistemas digitales"
+
+```
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
 ### **Frontend & Mobile**
+
 <div align="left">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white&labelColor=101010" />
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+
 </div>
 
-### **Backend & APIs**
+### **Backend & Cloud**
+
 <div align="left">
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+
 </div>
 
-### **Bases de Datos**
-<div align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</div>
+### **Data & Machine Learning**
 
-### **DevOps & Cloud**
 <div align="left">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+
 </div>
 
 ---
 
 ## 🏆 Proyectos Destacados
 
-### 🔍 Sistema de Gestión de Datos
-[![Repo](https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu_usuario/proyecto)
-![Tecnologías](https://img.shields.io/badge/-Angular-FF6C37?logo=angular&style=flat)
-![Tecnologías](https://img.shields.io/badge/-ASP.NET-512BD4?logo=dotnet&style=flat)
-![Tecnologías](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoftsqlserver&style=flat)
+### 🔍 Data Management Suite
 
-> Plataforma para gestión de bases de datos empresariales con reporting en tiempo real
+[![Repo](https://custom-icon-badge.vercel.app/github/stars/Sticlo/proyecto?logo=repo&label=Repository&color=20C20E)](https://github.com/Sticlo/proyecto)
+
+![Tech Stack](https://img.shields.io/badge/Stack-Angular|.NET|Azure|MongoDB-20C20E?style=flat&logoWidth=20)
+
+▶️ **Features Principales:**
+
+- Dashboard interactivo con visualización en tiempo real
+
+- Motor de ETL optimizado para grandes volúmenes de datos
+
+- Sistema de autenticación OAuth 2.0 + MFA
+
+- API REST con rate limiting y caching
+
+### 📈 Predictive Analytics API
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Heroku-430098?style=for-the-badge&logo=heroku)](https://tudemo.com)
+
+![Architecture](https://img.shields.io/badge/Arquitectura-Microservicios|Event%20Driven-20C20E)
+
+🚀 **Tecnologías Clave:**
+
+- Modelos de ML con PyTorch y Scikit-learn
+
+- Pipeline CI/CD con GitHub Actions
+
+- Monitoreo con Prometheus + Grafana
+
+- Escalado automático en AWS Lambda
 
 ---
 
-### 📈 API de Analítica Avanzada
-[![Demo](https://img.shields.io/badge/Ver_Demo-FF6C37?style=for-the-badge&logo=heroku&logoColor=white)](https://tudemo.com)
-![Tecnologías](https://img.shields.io/badge/-Python-3776AB?logo=python&style=flat)
-![Tecnologías](https://img.shields.io/badge/-AWS_Lambda-FF9900?logo=awslambda&style=flat)
-
-> Sistema de análisis predictivo con machine learning integrado
-
----
-
-## 📊 Mis Métricas
+## 📊 Estadísticas de Código
 
 <div align="center">
-  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=Sticlo&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Sticlo&layout=compact&theme=nightowl&hide_border=true&langs_count=8)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sticlo&theme=nightowl&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/Sticlo">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sticlo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=Métricas+de+Actividad"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sticlo&layout=compact&theme=nightowl&langs_count=8&exclude_repo=gh-pages"/>
+
+</a>
+
+![Contribuciones](https://github-readme-activity-graph.vercel.app/graph?username=Sticlo&theme=react-dark&hide_border=true&area=true&custom_title=Historial+de+Contribuciones)
 
 </div>
 
 ---
 
-## 🚀 En Desarrollo
+## 🚀 Proyectos en Curso
+
+### **Cloud Migration Toolkit**
+
+![Progress](https://progress-bar.dev/75/?title=Progreso&color=20C20E)
+
+`AWS` `Terraform` `Ansible` `Python`
+
+Herramienta para migración automatizada de workloads a la nube
+
+### **Real-Time Analytics Platform**
+
+![Progress](https://progress-bar.dev/40/?title=Progreso&color=20C20E)
+
+`Kafka` `Spark` `React` `Go`
+
+Plataforma de análisis de datos en tiempo real con procesamiento stream
+
+---
+
+## 📚 Blog Técnico
 
 <div align="left">
-  
-📌 **Microservicios Avanzados**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-📌 **Automatización CI/CD**  
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+📖 **Últimos Artículos:**
+
+• [Patrones de Diseño en Microservicios](https://medium.com/@tuusuario)
+
+• [Optimización de Queries en PostgreSQL](https://medium.com/@tuusuario)
+
+• [Seguridad en APIs REST: Best Practices](https://medium.com/@tuusuario)
 
 </div>
 
@@ -91,23 +169,27 @@
 ## 📬 Contacto
 
 <div align="center">
-  
+
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kofix459@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-aguilar-563b79298)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuportafolio.com)
 
 </div>
 
 ---
 
-## 💡 Filosofía de Desarrollo
+<div align="center">
 
-> "**La excelencia técnica no es un destino, sino un viaje continuo.**  
-> Cada línea de código es una oportunidad para crear impacto real."
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
 
 <div align="right">
-  
-![Code Quality](https://img.shields.io/badge/Código-Limpio-brightgreen?style=for-the-badge&logo=sonarqube)
-![Architecture](https://img.shields.io/badge/Arquitectura-Hexagonal-blueviolet?style=for-the-badge)
+
+[![Visitas](https://komarev.com/ghpvc/?username=Sticlo&color=20C20E&style=flat-square)](https://github.com/Sticlo)
 
 </div>
