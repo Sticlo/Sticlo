@@ -58,6 +58,24 @@
 
 ---
 
+## ⚙️ Habilidades Adicionales
+
+### **Control de Versiones y Herramientas**
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+### **Lenguajes de Programación**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
+
+### **Frameworks y Entornos**
+![Express](https://img.shields.io/badge/Express.js-404D59?logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node-dot-js&logoColor=white)
+
+---
+
 ## 💼 Experiencia Laboral en ADRES
 
 ### **Desarrollador Full Stack**
