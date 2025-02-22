@@ -25,7 +25,7 @@
 
 ### 🏛 Universidad Distrital Francisco José de Caldas
 **📖 Programa:** Tecnología en Sistematización de Datos  
-**📅 En curso:** 2023 - Actualidad  
+**📅 En curso:** 2021 - Actualidad  
 **📚 Cursos Destacados:**  
 - Arquitectura de Software
 - Desarrollo Web Avanzado
