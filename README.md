@@ -108,7 +108,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sticlo&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&custom_title=Métricas+Profesionales"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sticlo&layout=compact&theme=nightowl&langs_count=6&hide=html,css"/>
   
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Sticlo&theme=nightowl&hide_border=true&date_format=j%20M%5B%20Y%5D)
 </div>
 
 ---
